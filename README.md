@@ -19,7 +19,7 @@ l'integralité de l'application a été developpée par Alastor, le seul compte 
 
 L'application est conçue pour être la plus simple possible :
 
-1. **Téléchargement** : Récupérez le fichier `Messenger_P2P.exe` dans l'onglet Releases.  
+1. **Téléchargement** : Récupérez le fichier `LDC_P2P.exe` dans l'onglet Releases.  
 2. **Lancement** : Double-cliquez sur l'exécutable.  
 3. **Pare-feu** : Une fenêtre Windows peut apparaître. Cliquez sur "Autoriser l'accès" pour permettre la communication P2P.  
 4. **Alerte SmartScreen** : Si Windows affiche un message de protection, cliquez sur "Informations complémentaires" puis "Exécuter quand même".  
