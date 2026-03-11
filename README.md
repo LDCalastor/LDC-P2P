@@ -1,6 +1,6 @@
-# 🌐 P2P Messenger - Windows Edition
+# 🌐 LDC P2P Messenger - Windows Edition
 
-**P2P Messenger** est une solution de communication décentralisée. Grâce à son architecture **Peer-to-Peer (pair à pair)**, vos messages voyagent directement entre vous et vos amis, **sans jamais transiter par un serveur central**.
+**LDC P2P Messenger** est une solution de communication décentralisée. Grâce à son architecture **Peer-to-Peer (pair à pair)**, vos messages voyagent directement entre vous et vos amis, **sans jamais transiter par un serveur central**.
 
 l'integralité de l'application a été developpée par Alastor, le seul compte admin de l'application
 
