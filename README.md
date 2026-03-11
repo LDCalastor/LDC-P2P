@@ -65,10 +65,4 @@ Si vous rencontrez un souci avec un autre utilisateur ou une menace :
 
 ---
 
-## 🛠 Détails Techniques
-
-- **Langage** : [Inscris ton langage ici, ex: Python / C#]  
-- **Réseau** : Protocole [Ex: TCP/UDP]  
-- **Interface** : [Ex: Custom UI / Qt]  
-
 Développé avec passion pour une communication libre.
