@@ -1,82 +1,74 @@
-🚀 P2P Messenger (Version Windows)
+# 🌐 P2P Messenger - Windows Edition
 
-P2P Messenger est une application de messagerie instantanée entièrement décentralisée. En utilisant une architecture Peer-to-Peer, elle permet des échanges directs sans passer par un serveur central, garantissant une grande liberté de communication.
+**P2P Messenger** est une solution de communication décentralisée. Grâce à son architecture **Peer-to-Peer (pair à pair)**, vos messages voyagent directement entre vous et vos amis, **sans jamais transiter par un serveur central**.
 
-✨ Points forts
+---
 
-100% Décentralisé : Aucune base de données centrale, les messages vont directement d'un point A à un point B.
+## 🚀 Fonctionnalités Clés
 
-Chiffrement de bout en bout : Seuls l'expéditeur et le destinataire peuvent lire le contenu des échanges.
+- 🔒 **Confidentialité Totale** : Chiffrement de bout en bout. Seuls les participants peuvent lire les messages.  
+- 🌍 **100% Décentralisé** : Pas de serveur central, donc pas de point de défaillance unique.  
+- 📦 **Version Portable** : Pas d'installation. Un seul fichier `.exe` léger et prêt à l'emploi.  
+- 🛡️ **Respect de la Vie Privée** : Aucune collecte de métadonnées ou de logs.
 
-Version Portable : Aucun installateur requis. Un seul fichier .exe à lancer.
+---
 
-Confidentialité totale : Aucune collecte de métadonnées par une tierce partie.
+## 📥 Guide d'Utilisation
 
-📥 Téléchargement et Utilisation
+L'application est conçue pour être la plus simple possible :
 
-L'application est optimisée pour Windows.
+1. **Téléchargement** : Récupérez le fichier `Messenger_P2P.exe` dans l'onglet Releases.  
+2. **Lancement** : Double-cliquez sur l'exécutable.  
+3. **Pare-feu** : Une fenêtre Windows peut apparaître. Cliquez sur "Autoriser l'accès" pour permettre la communication P2P.  
+4. **Alerte SmartScreen** : Si Windows affiche un message de protection, cliquez sur "Informations complémentaires" puis "Exécuter quand même".  
 
-Rendez-vous dans l'onglet Releases.
+---
 
-Téléchargez le fichier Messenger_P2P.exe.
+## ⚠️ Avis Légal et Responsabilité
 
-Lancez l'application par un double-clic.
+L'utilisation de cette application décentralisée implique l'acceptation des points suivants :
 
-Pare-feu : Autorisez l'accès au réseau lors de la première ouverture pour permettre la connexion directe avec les autres utilisateurs.
+- **Absence de Modération** : Il n'existe aucune modération centrale. Les développeurs n'ont aucun accès technique aux conversations et ne peuvent pas supprimer de messages.  
+- **Responsabilité de l'Utilisateur** : Les développeurs ne sont pas responsables des échanges, contenus ou actions réalisés via l'application. Chaque utilisateur est seul responsable de ses propres propos et de son usage de l'outil.  
+- **Garantie** : Le logiciel est fourni "en l'état". Nous ne garantissons pas une disponibilité permanente ou l'absence totale de bugs.
 
-🛡️ Note : Comme l'exécutable n'est pas signé, Windows peut afficher une alerte SmartScreen. Cliquez sur "Informations complémentaires" puis "Exécuter quand même".
+---
 
-⚠️ Avis Légal et Responsabilité
+## 💬 Communauté & Support
 
-En raison de sa nature décentralisée (P2P) :
+Besoin d'aide ou envie de discuter ? Rejoignez-nous !
 
-Aucune modération : Il n'existe aucun organe central de modération. Les développeurs n'ont aucun contrôle technique sur les messages échangés entre les utilisateurs.
+- 👉 [Rejoindre le serveur Discord](#)  
 
-Responsabilité : Les développeurs ne peuvent être tenus responsables des propos, contenus ou actes réalisés par les utilisateurs sur l'application. Chaque utilisateur est seul responsable de son usage de l'outil.
+### 🚩 Signaler un problème ou un comportement
 
-Garanties : Le logiciel est fourni "en l'état", sans garantie de fonctionnement ininterrompu ou de sécurité absolue.
+Si vous rencontrez un souci avec un autre utilisateur ou une menace :
 
-💬 Communauté et Signalements
+1. **Ticket** : Ouvrez un ticket d'assistance sur notre serveur Discord.  
+2. **Preuves** : Joignez des captures d'écran. Ce sont des preuves irréfutables pour nous permettre d'agir.  
+3. **Urgences** : En cas de problème légal ou de menace grave, créez un ticket en précisant l'urgence du sujet.  
 
-Pour toute question ou pour rejoindre la communauté, rejoignez notre serveur Discord :
-👉 Rejoindre le Discord
+> Note : Bien que nous ne puissions pas techniquement intervenir sur le réseau P2P, nous vous assurons que le problème sera traité et que vous serez informé des suites. Les captures d'écran sont essentielles.
 
-🚩 Comment faire un signalement ?
+---
 
-Si vous rencontrez un problème avec un autre utilisateur ou un comportement inapproprié :
+## 🔄 Journal des modifications (Changelog)
 
-Ouvrez un Ticket sur notre serveur Discord.
+### v1.2.0 (Dernière version)
+- ✅ **Nouveau format** : Passage à un exécutable portable unique.  
+- 📂 **Fichiers** : Support de l'envoi d'images et de documents.  
+- 🌙 **Interface** : Ajout d'un mode sombre et refonte du menu contacts.  
 
-Fournissez des captures d'écran (screens). Ils constituent des preuves irréfutables pour nous aider à comprendre la situation.
+### v1.1.0
+- 🔐 **Sécurité** : Mise en place du protocole de chiffrement.  
+- 🔔 **Alertes** : Système de notifications natives Windows.  
 
-En cas de problème légal grave ou de menace, merci de préciser l'urgence dans votre ticket.
+---
 
-Notre engagement : Nous ne pouvons rien garantir techniquement sur le réseau P2P, mais nous vous assurons que chaque signalement sera traité avec attention et que vous serez tenu informé des suites données à votre demande.
+## 🛠 Détails Techniques
 
-🔄 Historique des Mises à jour (Changelog)
+- **Langage** : [Inscris ton langage ici, ex: Python / C#]  
+- **Réseau** : Protocole [Ex: TCP/UDP]  
+- **Interface** : [Ex: Custom UI / Qt]  
 
-[1.2.0] - Actuelle
-
-Migration vers .exe : Distribution simplifiée en un seul fichier portable.
-
-Transfert de fichiers : Support de l'envoi de documents et images en P2P.
-
-Interface : Ajout du mode sombre et amélioration du menu de contacts.
-
-[1.1.0]
-
-Sécurité : Implémentation du chiffrement des échanges.
-
-Notifications : Alertes Windows lors de la réception de nouveaux messages.
-
-🛠 Technologies
-
-Langage : [Votre Langage, ex: Python / C#]
-
-Réseau : Protocole [Ex: TCP/UDP]
-
-Interface : [Ex: Custom UI / Qt]
-
-📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+Développé avec passion pour une communication libre.
