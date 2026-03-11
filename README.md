@@ -38,7 +38,7 @@ L'utilisation de cette application décentralisée implique l'acceptation des po
 
 Besoin d'aide ou envie de discuter ? Rejoignez-nous !
 
-- 👉 [Rejoindre le serveur Discord]([#](https://discord.gg/ASzQtVWgV3))  
+- 👉 [Rejoindre le serveur Discord](https://discord.gg/ASzQtVWgV3)  
 
 ### 🚩 Signaler un problème ou un comportement
 
