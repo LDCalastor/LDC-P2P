@@ -54,12 +54,12 @@ Si vous rencontrez un souci avec un autre utilisateur ou une menace :
 
 ## 🔄 Journal des modifications (Changelog)
 
-### v1.2.0 (Dernière version)
+### v1.0 (Dernière version)
 - ✅ **Nouveau format** : Passage à un exécutable portable unique.  
 - 📂 **Fichiers** : Support de l'envoi d'images et de documents.  
 - 🌙 **Interface** : Ajout d'un mode sombre et refonte du menu contacts.  
 
-### v1.1.0
+### BETA
 - 🔐 **Sécurité** : Mise en place du protocole de chiffrement.  
 - 🔔 **Alertes** : Système de notifications natives Windows.  
 
